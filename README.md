@@ -27,4 +27,4 @@ cd ..(3 times)
 exit
 docker cp /home/ubuntu/project 8196ce9dbcc0:/usr/share/nginx/html
 ```
-Copy and Paste the Pubic IP in New page and check the page
+Copy and Paste the Public IP in New page and check the page
